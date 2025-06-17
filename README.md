@@ -20,4 +20,3 @@ This Power BI dashboard provides an interactive analysis of Amazon sales data, h
 
 
 
-🚀 Check out the live project here: **[Your LinkedIn Post Link]**
